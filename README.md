@@ -97,9 +97,6 @@ flight-ontime-analysis
 ├── Dashboard-2.png               
 └── README.md
 ```
-
-**Workbook sheets:** Dashboard · Insights · Kpis · Airline · Daily_Trend · Delay_Causes · Hourly · Top_Airports · Cancellations · Weekday · Routes
-
 ---
 
 ## ▶️ How to Run
@@ -121,6 +118,3 @@ flight-ontime-analysis
 
 ## 🛠️ Tools
 Excel · Power Query · Data Model · DAX · PivotTables · PivotCharts
-
-## 👩‍💻 Author
-**Nandhini** · [LinkedIn](https://linkedin.com/in/nandhini2565) · [GitHub](https://github.com/itznandyyy)
